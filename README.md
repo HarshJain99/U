@@ -6,9 +6,9 @@ Complete documentation available at: https://devx.merciglobal.com/apis/u/
 
 
 U offers multiple plugins like 
-      Modals, 
-      Toasts, 
-      seamless Page navigations,
+      Modals, <br>
+      Toasts, <br>
+      seamless Page navigations, \n
       Hero animations,
       Network Logging,
       Tabs 
