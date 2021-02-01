@@ -6,13 +6,13 @@ Complete documentation available at: https://devx.merciglobal.com/apis/u/
 
 
 U offers multiple plugins like 
-      Modals, <br>
-      Toasts, <br>
-      seamless Page navigations, \n
-      Hero animations,
-      Network Logging,
-      Tabs 
-      ... and so many more features
+      <br> &nbsp; Modals,
+      <br> &nbsp; Toasts,
+      <br> &nbsp; Seamless Page navigations, 
+      <br> &nbsp; Hero animations,
+      <br> &nbsp; Network Logging,
+      <br> &nbsp; Tabs 
+      <br> &nbsp; ... and so many more features
       
 
 Getting it all in a single library means that you dont need to reply on importing multiple different libraries. All the tools perfectly blend each other to make your app look beautiful and pixel perfect.
