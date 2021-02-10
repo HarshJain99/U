@@ -5,7 +5,7 @@ Highly customizable, with lots of different features, and yet almost any feature
 Complete documentation available at: https://devx.merciglobal.com/apis/u/
 
 
-U offers multiple plugins like 
+U offers multiple features like 
       <br> &nbsp; Modals,
       <br> &nbsp; Toasts,
       <br> &nbsp; Seamless Page navigations, 
@@ -15,7 +15,7 @@ U offers multiple plugins like
       <br> &nbsp; ... and so many more features
       
 
-Getting it all in a single library means that you dont need to reply on importing multiple different libraries. All the tools perfectly blend each other to make your app look beautiful and pixel perfect.
+Getting it all in a single library means that you dont need to rely on importing multiple different libraries. All the tools perfectly blend each other to make your app look beautiful and pixel perfect.
 
 
 Constructive suggestions are always welcome.
